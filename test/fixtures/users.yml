@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  email: MyString
+  password_digest: MyString
+  grado: 1
+  vehiculo: MyString
+  region: MyString
+  comuna: MyString
+  direccion: MyString
+  latitude: 1.5
+  longitude: 1.5
+  fono: MyString
+  grado: 1
+
+two:
+  name: MyString
+  email: MyString
+  password_digest: MyString
+  grado: 1
+  vehiculo: MyString
+  region: MyString
+  comuna: MyString
+  direccion: MyString
+  latitude: 1.5
+  longitude: 1.5
+  fono: MyString
+  grado: 1
